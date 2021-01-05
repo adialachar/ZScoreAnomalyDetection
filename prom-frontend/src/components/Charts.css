@@ -1,0 +1,16 @@
+.chart{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 50% 50%;
+    
+    
+    column-gap: 1em;
+    row-gap: 1em;
+}
+.barchart{
+ 
+}
+.scatterChart{
+    width: 600px;
+    height: 600px;
+}
